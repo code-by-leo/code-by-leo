@@ -11,3 +11,4 @@ Currently: owning the data ecosystem at a performance arts nonprofit (Airtable t
 - 🚲 [Citibike Ridership Forecasting](https://github.com/code-by-leo/citibike-ridership-model) — predicting daily ride volume from calendar and weather features alone
 
 📍 [LinkedIn](https://www.linkedin.com/in/leomary/)
+
