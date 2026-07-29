@@ -1,15 +1,66 @@
-## Hi, I'm Leomary
+<img src="assets/banner.svg" alt="Leomary Rodriguez — Data Analyst · Analytics Engineer, New York City" width="100%" />
 
-Data analyst and analytics engineer in NYC. I build end-to-end data infrastructure for mission-driven organizations: survey pipelines, Postgres data models, and dashboards that non-technical teams actually use.
+### Hi, I'm Leomary 👋
 
-Currently: owning the data ecosystem at a performance arts nonprofit (Airtable to Python ETL to Supabase Postgres to Streamlit), and completing The Knowledge House Data Analytics Fellowship.
+Data analyst and analytics engineer in New York City. I build end-to-end data infrastructure — ETL pipelines, Postgres data models, dbt projects, and dashboards that non-technical teams actually use — and I care as much about the last mile (adoption, documentation, trust) as the first.
 
-**Stack:** Python (pandas, scikit-learn) · SQL (PostgreSQL) · dbt · Snowflake · Streamlit · Tableau · HEX
+📍 New York, NY
 
-**Featured work:**
-- 🗺️ [Land and Water Protection Map](https://github.com/code-by-leo/Land_Water_Protection_Efforts) — public interactive map of global land and water protection movements
-- 🚲 [Citibike Ridership Forecasting](https://github.com/code-by-leo/citibike-ridership-model) — predicting daily ride volume from calendar and weather features alone
+## 🔍 Right Now
 
-📍 [LinkedIn](https://www.linkedin.com/in/leomary/)
+- 🔭 Building **Community Media Contributor Analytics** — a layered dbt project modeling four years of contributor and submission data *(dbt · Snowflake · DuckDB)*
+- 💼 Owning an end-to-end data ecosystem as the sole data person: Airtable → Python ETL → Supabase Postgres → Streamlit
+- 🌱 Completing **The Knowledge House Data Analytics Fellowship**
+- 💬 Ask me about survey data pipelines, config-driven dashboards, or getting non-technical teams to trust their data
+- ⚡ Fun fact: I've never met a spreadsheet I couldn't turn into a pipeline
 
- 
+## 🛠 Skills & Tools
+
+**Analytics & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+
+**Visualization & BI**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![HEX](https://img.shields.io/badge/HEX-473982?style=flat-square)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white)
+
+**Engineering & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+
+## 📌 Featured Projects
+
+### 🗺️ [Land and Water Protection Map](https://github.com/code-by-leo/Land_Water_Protection_Efforts)
+Public interactive map of land and water protection movements — built end to end, from sourcing and modeling the data to shipping the map.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🚲 [Citibike Ridership Forecasting](https://github.com/code-by-leo/citibike-ridership-model)
+Regression model predicting daily Citibike ride volume from calendar and weather features alone — feature engineering, model selection, and honest error analysis.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### 📺 Community Media Contributor Analytics *(coming soon)*
+Layered dbt project modeling four years of contributor and submission data from a public access TV station — staging → intermediate → mart models, schema and singular tests, and incremental materialization.
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomary/)
+
+Thanks for stopping by — if you want to talk data, pipelines, or dashboards, reach out on LinkedIn. 💡

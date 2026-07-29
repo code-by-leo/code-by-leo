@@ -1,0 +1,41 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Leomary Rodriguez — Data Analyst and Analytics Engineer, New York City">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#164e63"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- subtle dot grid, upper right -->
+  <g fill="#94a3b8" opacity="0.18">
+    <g id="dotrow">
+      <circle cx="860" cy="40" r="2"/><circle cx="890" cy="40" r="2"/><circle cx="920" cy="40" r="2"/><circle cx="950" cy="40" r="2"/><circle cx="980" cy="40" r="2"/><circle cx="1010" cy="40" r="2"/><circle cx="1040" cy="40" r="2"/><circle cx="1070" cy="40" r="2"/><circle cx="1100" cy="40" r="2"/><circle cx="1130" cy="40" r="2"/><circle cx="1160" cy="40" r="2"/>
+    </g>
+    <use href="#dotrow" y="28"/>
+    <use href="#dotrow" y="56"/>
+    <use href="#dotrow" y="84"/>
+    <use href="#dotrow" y="112"/>
+  </g>
+
+  <!-- faint line-chart motif along the bottom -->
+  <polyline points="0,265 120,240 240,252 360,218 480,232 600,198 720,212 840,180 960,196 1080,160 1200,175"
+            fill="none" stroke="url(#line)" stroke-width="2.5" opacity="0.45"/>
+  <polyline points="0,282 150,270 300,276 450,254 600,262 750,242 900,250 1050,228 1200,238"
+            fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.2"/>
+  <g fill="#22d3ee" opacity="0.55">
+    <circle cx="360" cy="218" r="3.5"/><circle cx="600" cy="198" r="3.5"/><circle cx="840" cy="180" r="3.5"/><circle cx="1080" cy="160" r="3.5"/>
+  </g>
+
+  <!-- text block -->
+  <text x="80" y="128" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f8fafc" letter-spacing="0.5">Leomary Rodriguez</text>
+  <rect x="83" y="150" width="150" height="4" rx="2" fill="url(#line)"/>
+  <text x="80" y="192" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="400" fill="#a5f3fc" letter-spacing="1">Data Analyst · Analytics Engineer</text>
+  <text x="80" y="228" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#94a3b8" letter-spacing="1">Python · SQL · dbt — New York City</text>
+</svg>
