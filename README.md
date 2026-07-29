@@ -12,3 +12,4 @@ Currently: owning the data ecosystem at a performance arts nonprofit (Airtable t
 
 📍 [LinkedIn](https://www.linkedin.com/in/leomary/)
 
+ 
