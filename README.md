@@ -11,9 +11,9 @@ information and turn it into something people can see, trust, and act on.
 
 ## 🔍 Professional Background
 
-* 🔭 Building **Community Media Contributor Analytics**: a layered dbt project modeling four years of contributor and submission data (dbt · Snowflake · DuckDB)
-* 💼 Owning an end-to-end data ecosystem as the sole data person: Airtable → Python ETL → Supabase Postgres → Streamlit
-* 🌱 Completing The Knowledge House Data Analytics Fellowship
+* 🔭 Building various project models, apps and pipelines for organizations; specifically to ease community connection efforts
+* 💼 Owning an end-to-end data ecosystems
+* 🌱 Completing The Knowledge House Data Analytics Fellowship in 2026
 * 💬 Ask me about survey data pipelines, config-driven dashboards, or getting non-technical teams to trust their data
 
 ## 🛠 Skills & Tools
