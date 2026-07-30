@@ -57,7 +57,7 @@ Regression model predicting daily Citibike ride volume from calendar and weather
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### 📺 Community Media Contributor Analytics *(coming soon)*
+### 📺 [Community Media Contributor Analytics](https://github.com/code-by-leo/community-media-contributor-analytics))
 Layered dbt project modeling four years of contributor and submission data from a public access TV station — staging → intermediate → mart models, schema and singular tests, and incremental materialization.
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
