@@ -15,6 +15,7 @@ information and turn it into something people can see, trust, and act on.
 * 💼 Owning an end-to-end data ecosystems
 * 🌱 Completing The Knowledge House Data Analytics Fellowship in 2026
 * 💬 Ask me about survey data pipelines, config-driven dashboards, or getting non-technical teams to trust their data
+* ✨ Fun Fact: I run for fun! 🏃🏽‍♀️‍➡️, sometimes with my dog Neo 🐾
 
 ## 🛠 Skills & Tools
 
