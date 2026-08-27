@@ -47,12 +47,12 @@ information and turn it into something people can see, trust, and act on.
 
 ## 📌 Featured Projects
 
-🚦 **UK Road Safety: A Machine Learning Pipeline**
+🚦 [**UK Road Safety: A Machine Learning Pipeline**](https://github.com/code-by-leo/uk_road_safety_datapipe)
 
-Clustering and supervised modelling on two million UK road accidents. Built the cleaning pipeline both
-files depend on, led EDA on severity and road conditions, co-built the KMeans clustering that found five
-distinct accident profiles with a 4.6× spread in fatality rate, and shipped an interactive Tableau
-dashboard. Team of four.
+Clustering and supervised modelling on two million UK road accidents. Built the cleaning pipeline both files depend on, led EDA on severity and road conditions, co-built the KMeans clustering that found five distinct accident profiles with a 4.6× spread in fatality rate, and shipped an interactive Tableau dashboard. Team of four.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+[![View Dashboard](https://img.shields.io/badge/View_the_live_dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/amina.jobarteh/viz/UKRoadSafety_17877843524320/Findings)
 
 ### 🗺️ [Land and Water Protection Map](https://github.com/code-by-leo/Land_Water_Protection_Efforts)
 Public interactive map of land and water protection movements — built end to end, from sourcing and modeling the data to shipping the map.
