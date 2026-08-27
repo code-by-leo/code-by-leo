@@ -64,6 +64,6 @@ Layered dbt project modeling four years of contributor and submission data from 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomary/)
-
-Thanks for stopping by — if you want to talk data, pipelines, or dashboards, reach out on LinkedIn. 💡
+Thanks for stopping by — if you want to talk data, pipelines, or dashboards, reach out on
+[LinkedIn](https://linkedin.com/in/leomary) or take a look at my
+[resume](https://drive.google.com/file/d/1ZdbVo5DEXBa5CI2YDTcJzQNVyEoPO-8K/view?usp=sharing). 💡
