@@ -47,6 +47,13 @@ information and turn it into something people can see, trust, and act on.
 
 ## 📌 Featured Projects
 
+🚦 **UK Road Safety: A Machine Learning Pipeline**
+
+Clustering and supervised modelling on two million UK road accidents. Built the cleaning pipeline both
+files depend on, led EDA on severity and road conditions, co-built the KMeans clustering that found five
+distinct accident profiles with a 4.6× spread in fatality rate, and shipped an interactive Tableau
+dashboard. Team of four.
+
 ### 🗺️ [Land and Water Protection Map](https://github.com/code-by-leo/Land_Water_Protection_Efforts)
 Public interactive map of land and water protection movements — built end to end, from sourcing and modeling the data to shipping the map.
 
