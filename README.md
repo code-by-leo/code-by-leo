@@ -54,7 +54,7 @@ Clustering and supervised modelling on two million UK road accidents. Built the 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 [![View Dashboard](https://img.shields.io/badge/View_the_live_dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/amina.jobarteh/viz/UKRoadSafety_17877843524320/Findings)
 
-### 🗺️ [Land and Water Protection Map](https://github.com/code-by-leo/land-water-protection-map))
+### 🗺️ [Land and Water Protection Map](https://github.com/code-by-leo/land-water-protection-map)
 Public interactive map of land and water protection movements — built end to end, from sourcing and modeling the data to shipping the map.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
